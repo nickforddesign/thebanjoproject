@@ -1,1 +1,10 @@
-.DS_Store
+*.DS_Store
+*.Trashes
+
+wp-content/backup/*
+wp-content/cache/*
+wp-content/upgrade/*
+wp-content/uploads/*
+
+// track this one file
+!wp-content/uploads/.htaccess
