@@ -1,6 +1,8 @@
 *.DS_Store
 *.Trashes
 
+wp-content/wp-config.php
+
 wp-content/backup/*
 wp-content/cache/*
 wp-content/upgrade/*
